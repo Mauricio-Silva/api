@@ -1,0 +1,40 @@
+h2 {
+    border-bottom: 1px solid #4ca041;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    justify-content: space-evenly !important;
+}
+
+.btn-modal-area {
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+}
+.btn-modal-area button {
+    width: 150px;
+}
+
+.index-column {
+    width: 285px;
+}
+
+.btn-options-area {
+    width: 185px;
+}
+.btn-options-area button:first-child {
+    margin-right: 10px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 150px;
+    color: #ea1f37;
+}
+
+#newNameHelp {
+    color: #ea1f37;
+    margin-top: 10px;
+}
